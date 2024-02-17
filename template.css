@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+    color: white;
+    line-height: 10px;
+}
+
+.footer {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(224, 220, 220);
+    color: black;
+    line-height: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p {
+    text-align: justify;
+}
+
+.li {
+    font-size: large;
+    display: list-item;
+}

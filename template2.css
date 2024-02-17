@@ -1,0 +1,17 @@
+.header {
+    color: white;
+    padding-top: 10px;
+}
+
+.content {
+    padding: 70px;
+}
+
+.col-5 {
+    padding-top: 80px;
+    padding-right: 100px;
+}
+
+.b2 h2 {
+    font-size: 64px;
+}
